@@ -13,6 +13,12 @@ Git: https://git-scm.com/downloads
 
 Download the latest version of WebStorm from the provided link or you can download from the JetBrains License page. Set up WebStorm manually & it'll ask you to login information. To login Use your JetBrains ID & Password. In additon, In Webstorm press (Ctrl+Alt+S) for system preferences & Select Version control Git. Enter the path to the git.exe. If the path doesn't come up automatically then add path manually. In the last, Connect Github with Webstorm and add Github Password.
 
+Create a Repository from Webstorm, so select VCS and import into version Control VCS to Git. Enter the Github repository name and give the local path name.
+
+Creating a Webstorm File using HTML5 stylesheet, and add files to Git. Once you add & make a changes you commit your changes and add a commit message.
+
+In the last, push your changes to the Repository and the file should be on Github.
+
 Part 2: Glossary to include these terms in a bulleted list.
 Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 
